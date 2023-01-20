@@ -1,6 +1,13 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+npx create-react-app my-app
+
+cd my-app
+
+npm start
+
+## For this Project I use Sample Employee Data file.
+https://randomuser.me/api/?results=200&nat=us
 
 ## Available Scripts
 
@@ -61,10 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+![image](https://user-images.githubusercontent.com/122023246/213690469-d903ef45-4428-4065-b7e5-7751868d4c21.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+![image](https://user-images.githubusercontent.com/122023246/213690370-36e67ae2-76de-4f79-88e5-b396e413d8c1.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
